@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="colleges">
+        <item>请选择学院</item>
+        <item>全部通知</item>
+        <item>机电学院</item>
+        <item>计算机学院</item>
+        <item>地学院</item>
+        <item>信工学院</item>
+        <item>经管学院</item>
+        <item>工程学院</item>
+        <item>资源学院</item>
+        <item>环境学院</item>
+        <item>外国语学院</item>
+        <item>珠宝学院</item>
+        <item>公共管理学院</item>
+        <item>艺术与传媒学院</item>
+        <item>李四光学院</item>
+    </string-array>
+    
+    <string-array name="museum_guide">
+        <item>参观指南</item>
+        <item>参观须知</item>
+        <item>票务服务</item>
+        <item>交通信息</item>
+    </string-array>
+    <string-array name="museum_show">
+        <item>陈列展览</item>
+        <item>常设展览</item>
+        <item>新增展览</item>
+    </string-array>
+    <string-array name="museum_products">
+        <item>化石矿物</item>
+        <item>化石标本</item>
+        <item>矿物标本</item>
+        <item>宝石标本</item>
+    </string-array>
+</resources>

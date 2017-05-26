@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test_Cug1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lib_name">图书馆</string>
+    <string name="app_name1">地大校园通</string>
+    <string name="search_result">搜索结果</string>
+    <string name="error">网络连接出错</string>
+    <string name="bookdetail">详细信息</string>
+    <string name="newsitem">新闻列表</string>
+    <string name="newsdetail">详细信息</string>
+    <string name="notiitem">通知信息</string>
+    <string name="lectureinfo">讲座信息</string>
+    <string name="lecturedetail">详细信息</string>
+    <string name="airport">从天河机场：乘坐机场巴士到汉口火车站（15分钟一趟），乘536路至鲁巷，再转乘59、401、709路公交车到地质大学站。</string>
+    <string name="train">从汉口站：乘坐536路车至鲁巷，在转乘59或401或709路公交车，至地质大学站下。或乘坐地铁至光谷站，再步行至鲁巷站转乘59、401、709路公交车到地质大学站。出租车费用约70元。</string>
+    <string name="bus">从武胜路长途汽车站：乘坐536路或703路公交车至鲁巷，转乘59、401、709路公交车到地质大学站。    从宏基长途汽车站：乘坐59路公交车到地质大学站。    从傅家坡长途汽车站：乘坐401路公交车到地质大学站。</string>
+    <string name="visit_time">周一至周五 （8:30~12:00） 周末及节假日 （9:00~16:30）</string>
+    <string name="ticket">成人40元/次  学生20元/次  儿童10元/次</string>
+</resources>
